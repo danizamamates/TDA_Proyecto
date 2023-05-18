@@ -1,4 +1,4 @@
-# TDA_Proyect
+# TDA_Proyecto
 Bienvenidos al repositorio de GitHub del proyecto de topología de ClimateAI para el análisis de datos. Este repositorio alberga el código, los recursos y la documentación relacionados con nuestro proyecto, donde se emplean métodos topológicos para realizar análisis de datos en el campo de la climatología haciendo énfasis en el fenómeno de El Niño y sus efectos pronosticados.
 
 El objetivo principal de este proyecto consiste en explorar y comprender la estructura subyacente de los datos climáticos a través del enfoque de la topología, buscamos descubrir patrones ocultos, identificar relaciones y tomar decisiones informadas en relación al cambio climático.
