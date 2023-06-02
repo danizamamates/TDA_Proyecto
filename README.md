@@ -1,9 +1,13 @@
 # TDA_Proyecto
 
 Eugenio Santisteban Zolezzi - A01720932 
+
 Daniel de Zamacona Madero - A01570576 
+
 Bryan Esqueda Ruiz - A01235857 
+
 Verónica Victoria García de la Fuente - A00830383 
+
 Daniel Alfonso Garza Morales - A01232565
 
 Bienvenidos al repositorio de GitHub del proyecto de topología de ClimateAI para el análisis de datos. Este repositorio alberga el código, los recursos y la documentación relacionados con nuestro proyecto, donde se emplean métodos topológicos para realizar análisis de datos en el campo de la climatología haciendo énfasis en el fenómeno de El Niño y sus efectos pronosticados.
